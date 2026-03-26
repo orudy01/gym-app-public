@@ -14,13 +14,13 @@
 
   ## Why I Built This
 
-  I've always been into fitness and wanted a simple way to track my       
-  workouts over time. Every app I tried had paywalls on the features that
-  mattered. With a foundation in web development (The Odin Project) and   
-  hands-on experience with modern AI tooling, I decided to build my own.
-
-  What started as a personal tool grew into something others can use too —
-   browse my workouts, generate their own plans, check out my supplement
+  I've always been into fitness and wanted a simple way to track my 
+  workouts over time. Every app I tried had paywalls on the features that 
+  mattered. With some foundation in web development and hands-on experience
+  with modern AI tooling, I decided to build my own.
+  
+  What started as a personal tool grew into something others can use to 
+  browse my workouts, generate their own plans, check out my supplement
   stack, or book a session with me.                                       
                                                             
   ---
